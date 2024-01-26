@@ -4,6 +4,6 @@
 
 int main(){
     check();
-    
+    check2();
     return 0;
 }

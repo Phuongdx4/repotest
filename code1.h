@@ -42,3 +42,4 @@ public:
 
 
 void check();
+void check2();
