@@ -39,3 +39,6 @@ public:
     virtual void show_infor();
     
 };
+
+
+void check();

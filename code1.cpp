@@ -4,4 +4,6 @@
 using namespace std;
 
 
-
+void check(){
+    cout << "check" << endl;
+}
