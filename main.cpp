@@ -5,5 +5,6 @@
 int main(){
     check();
     check2();
+    checkk3();
     return 0;
 }
